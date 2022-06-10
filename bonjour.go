@@ -3,7 +3,7 @@ package nighthawk
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/andrewtj/dnssd"
+	"github.com/scroot/dnssd"
 	"log"
 	"net"
 )
