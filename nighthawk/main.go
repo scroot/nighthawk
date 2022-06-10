@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Lightspeed-Systems/nighthawk"
+	"github.com/scroot/nighthawk"
 	//"github.com/davecheney/profile"
 	"github.com/nareix/codec"
 	"image/jpeg"
