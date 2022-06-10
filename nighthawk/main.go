@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/scroot/nighthawk"
 	//"github.com/davecheney/profile"
-	"github.com/nareix/codec"
+	"github.com/bealemm/codec"
 	"image/jpeg"
 	"os"
 )
